@@ -1,0 +1,2 @@
+# mamc
+GitHub Pages
